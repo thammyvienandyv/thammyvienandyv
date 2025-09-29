@@ -1,42 +1,7 @@
-# Portfolio Blog Starter
-
-This is a porfolio site template complete with a blog. Includes:
-
-- MDX and Markdown support
-- Optimized for SEO (sitemap, robots, JSON-LD schema)
-- RSS Feed
-- Dynamic OG images
-- Syntax highlighting
-- Tailwind v4
-- Vercel Speed Insights / Web Analytics
-- Geist font
-
-## Demo
-
-https://portfolio-blog-starter.vercel.app
-
-## How to Use
-
-You can choose from one of the following two methods to use this repository:
-
-### One-Click Deploy
-
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=vercel-examples):
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/examples/tree/main/solutions/blog&project-name=blog&repository-name=blog)
-
-### Clone and Deploy
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [pnpm](https://pnpm.io/installation) to bootstrap the example:
-
-```bash
-pnpm create next-app --example https://github.com/vercel/examples/tree/main/solutions/blog blog
-```
-
-Then, run Next.js in development mode:
-
-```bash
-pnpm dev
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/templates) ([Documentation](https://nextjs.org/docs/app/building-your-application/deploying)).
+<p>B&aacute;c sĩ AndyV l&agrave; tập hợp c&aacute;c B&aacute;c sĩ c&oacute; chuy&ecirc;n m&ocirc;n trong từng lĩnh vực kh&aacute;c nhau, nhưng chung quy lại đều c&oacute; phương ch&acirc;m &ldquo;l&agrave;m đẹp an to&agrave;n, tự nhi&ecirc;n v&agrave; to&agrave;n diện&rdquo;.<br />Địa chỉ: 40/9 Phạm Viết Ch&aacute;nh, Phường 19, B&igrave;nh Thạnh, Hồ Ch&iacute; Minh 10000, Việt Nam<br />Số điện thoại: 0903327999 <br />Email: thammy@andyv.vn<br />Website: <a href="https://andyv.vn/">https://andyv.vn/</a><br />#andyv #thammyvienandyv #bacsiandyv</p>
+<p>Social:</p>
+<p><a href="https://www.pinterest.com/thammyvienandyv/">https://www.pinterest.com/thammyvienandyv/</a><br /><a href="https://www.tiktok.com/@bacsi_andyv">https://www.tiktok.com/@bacsi_andyv</a><br /><a href="https://soundcloud.com/thammyvienandyv">https://soundcloud.com/thammyvienandyv</a><br /><a href="https://www.twitch.tv/thammyvienandyv">https://www.twitch.tv/thammyvienandyv</a><br /><a href="https://about.me/thammyvienandyv">https://about.me/thammyvienandyv</a><br /><a href="https://gravatar.com/thammyvienandyv">https://gravatar.com/thammyvienandyv</a><br /><a href="https://www.instapaper.com/p/thammyvienandyv">https://www.instapaper.com/p/thammyvienandyv</a><br /><a href="https://dev.to/thammyvienandyv">https://dev.to/thammyvienandyv</a><br /><a href="https://coub.com/thammyvienandyv">https://coub.com/thammyvienandyv</a><br /><a href="https://www.dailymotion.com/andyvthammyvien">https://www.dailymotion.com/andyvthammyvien</a><br /><a href="https://myspace.com/thammyvienandyv">https://myspace.com/thammyvienandyv</a><br /><a href="https://sketchfab.com/thammyvienandyv">https://sketchfab.com/thammyvienandyv</a><br /><a href="https://gifyu.com/thammyvienandyv">https://gifyu.com/thammyvienandyv</a><br /><a href="https://pixabay.com/users/thammyvienandyv-51890474/">https://pixabay.com/users/thammyvienandyv-51890474/</a><br /><a href="https://start.me/u/bpjlao/thammyvienandyv">https://start.me/u/bpjlao/thammyvienandyv</a></p>
+<p><a href="https://www.blogger.com/profile/01488939786050634989">https://www.blogger.com/profile/01488939786050634989</a><br /><a href="https://thammyvienandyv.wordpress.com/">https://thammyvienandyv.wordpress.com/</a><br /><a href="https://sites.google.com/view/thammyvienandyv/">https://sites.google.com/view/thammyvienandyv/</a><br /><a href="https://thammyvienandyv.mystrikingly.com/">https://thammyvienandyv.mystrikingly.com/</a><br /><a href="https://groups.google.com/g/thammyvienandyv">https://groups.google.com/g/thammyvienandyv</a><br /><a href="https://community.oneplus.com/user/1946634683567570950">https://community.oneplus.com/user/1946634683567570950</a><br /><a href="https://form.jotform.com/andyvthammyvien/profile">https://form.jotform.com/andyvthammyvien/profile</a><br /><a href="https://telegra.ph/Tham-my-vien-AndyV-09-11">https://telegra.ph/Tham-my-vien-AndyV-09-11</a><br /><a href="https://a9faa144a66c-20250912022936.yourwebsitespace.com/">https://a9faa144a66c-20250912022936.yourwebsitespace.com/</a><br /><a href="https://tham-my-vien-andyv.jimdosite.com/">https://tham-my-vien-andyv.jimdosite.com/</a><br /><a href="https://lite.evernote.com/note/74b1642b-dc77-dc93-9e12-3deaa8bc75f7">https://lite.evernote.com/note/74b1642b-dc77-dc93-9e12-3deaa8bc75f7</a><br /><a href="https://www.band.us/@thammyvienandyv">https://www.band.us/@thammyvienandyv</a><br /><a href="https://www.tumblr.com/thammyvienandyv">https://www.tumblr.com/thammyvienandyv</a><br /><a href="https://thammyvienandyv.seesaa.net/">https://thammyvienandyv.seesaa.net/</a><br /><a href="https://www.wikidot.com/user:info/thammyvienandyv">https://www.wikidot.com/user:info/thammyvienandyv</a><br /><a href="https://thammyvienandyv.blog.fc2.com/">https://thammyvienandyv.blog.fc2.com/</a><br /><a href="https://thammyvienandyv.weebly.com/">https://thammyvienandyv.weebly.com/</a><br /><a href="https://qiita.com/thammyvienandyv">https://qiita.com/thammyvienandyv</a><br /><a href="https://ok.ru/group/70000039802351">https://ok.ru/group/70000039802351</a><br /><a href="https://gettr.com/user/thammyvienandyv">https://gettr.com/user/thammyvienandyv</a><br /><a href="https://thammyvienandyv.kit.com/profile/links">https://thammyvienandyv.kit.com/profile/links</a><br /><a href="https://www.goodreads.com/user/show/193099271-th-m-m-vi-n-andyv">https://www.goodreads.com/user/show/193099271-th-m-m-vi-n-andyv</a><br /><a href="https://wakelet.com/@thammyvienandyv">https://wakelet.com/@thammyvienandyv</a><br /><a href="https://www.patreon.com/cw/ThammyvienAndyV">https://www.patreon.com/cw/ThammyvienAndyV</a><br /><a href="https://www.flickr.com/people/203338682@N07/">https://www.flickr.com/people/203338682@N07/</a><br /><a href="https://mastodon.social/@thammyvienandyv">https://mastodon.social/@thammyvienandyv</a><br /><a href="https://buymeacoffee.com/thammyvienandyv">https://buymeacoffee.com/thammyvienandyv</a><br /><a href="https://ko-fi.com/thammyvienandyv">https://ko-fi.com/thammyvienandyv</a><br /><a href="https://justpaste.it/u/thammyvienandyv">https://justpaste.it/u/thammyvienandyv</a><br /><a href="https://community.wongcw.com/thammyvienandyv">https://community.wongcw.com/thammyvienandyv</a><br /><a href="https://www.longisland.com/profile/thammyvienandyv/">https://www.longisland.com/profile/thammyvienandyv/</a><br /><a href="https://www.myminifactory.com/users/thammyvienandyv">https://www.myminifactory.com/users/thammyvienandyv</a></p>
+<p><a href="https://thammyvienandyv.quora.com/">https://thammyvienandyv.quora.com/</a><br /><a href="https://www.reddit.com/user/thammyvienandyv/">https://www.reddit.com/user/thammyvienandyv/</a><br /><a href="https://www.facebook.com/bacsiandyv.vuson">https://www.facebook.com/bacsiandyv.vuson</a><br /><a href="https://x.com/Bacsiandy_v">https://x.com/Bacsiandy_v</a><br /><a href="https://www.instagram.com/thammyvienandyv/">https://www.instagram.com/thammyvienandyv/</a></p>
+<p><a href="https://thammyvienandyv.ucoz.net/">https://thammyvienandyv.ucoz.net/</a></p>
+<p><a href="https://thammyvienandyv.usite.pro/">https://thammyvienandyv.usite.pro/</a></p>
